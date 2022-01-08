@@ -1,6 +1,7 @@
 ## 坤坤and婷婷的小屋
 
-You can use the [editor on GitHub](https://github.com/ketzap/chenyankun.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+欢迎来到坤坤和婷婷的小屋哦
+![avatar](https://links.jianshu.com/go?to=http%3A%2F%2Fbaidu.com%2Fpic%2Fdoge.png)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
